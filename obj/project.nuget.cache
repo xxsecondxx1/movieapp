@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Fxki+54GjrIrnta4F6B8gWhYXjTaKGF/ZoJEwIIiIoB77U7KdQ5BQTKaOIv3QtFcN4VmhCNTn3wYBej8h0nevA==",
+  "dgSpecHash": "W1+UhYL6W5ytm1SiKMhZWk2lBwIDFalbO+E9xnNLFtXvqtZ2VTdLA9KD1Koqh8ucbVZwvLtyTIIlkJHwxCV4Dw==",
   "success": true,
   "projectFilePath": "D:\\universidad\\program 1\\programas\\movieapp\\movieapp.csproj",
   "expectedPackageFiles": [
@@ -40,6 +40,8 @@
     "C:\\Users\\mayron\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
     "C:\\Users\\mayron\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\mayron\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\mayron\\.nuget\\packages\\npgsql\\8.0.2\\npgsql.8.0.2.nupkg.sha512",
+    "C:\\Users\\mayron\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\8.0.2\\npgsql.entityframeworkcore.postgresql.8.0.2.nupkg.sha512",
     "C:\\Users\\mayron\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.6\\sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
     "C:\\Users\\mayron\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
     "C:\\Users\\mayron\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.6\\sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
